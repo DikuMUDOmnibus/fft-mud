@@ -3,3 +3,4 @@ fft/src/obj/*
 *.obj
 fft/player/*
 .gdb_history
+rom

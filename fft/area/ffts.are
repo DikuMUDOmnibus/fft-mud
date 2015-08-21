@@ -1,0 +1,525 @@
+#AREADATA
+Name Ivalice Generic~
+Builders None~
+VNUMs 100 600
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#101
+shop keeper shopkeeper~
+The Shopkeeper~
+A shopkeeper is selling initial equipment.
+~
+~
+human~
+A 0 0 -1  0 0
+0 0 999d10+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+0 #0
+
+
+
+#OBJECTS
+#100
+Dagger~
+{xDagger~
+(no description)~
+unknown~
+weapon 0 AB
+0
+0
+dagger 3 0 stab 0
+0 0 100 P
+#101
+Mythril Knife dagger~
+{xMythril Knife~
+A dagger is here.~
+unknown~
+weapon 0 AB
+0
+0
+dagger 4 5 stab 0
+0 0 500 P
+#102
+Blind Knife~
+{xBlind Knife~
+A dagger is here.~
+unknown~
+weapon 0 AB
+0
+0
+dagger 4 5 stab 0
+0 0 800 P
+#103
+Mage Masher dagger~
+{xMage Masher~
+A dagger is here.~
+unknown~
+weapon 0 AB
+0
+0
+dagger 4 5 stab 0
+0 0 1500 P
+#104
+Platina Dagger~
+{xPlatina Dagger~
+A dagger is here.~
+unknown~
+weapon 0 AB
+0
+0
+dagger 5 10 stab 0
+0 0 1800 P
+#105
+Main Gauche dagger~
+{xMain Gauche~
+A dagger is here.~
+unknown~
+weapon 0 AB
+0
+0
+dagger 6 40 stab 0
+0 0 3000 P
+#106
+Orichalcum dagger~
+{xOrichalcum~
+A dagger is here.~
+unknown~
+weapon 0 AB
+0
+0
+dagger 7 5 stab 0
+0 0 4000 P
+#107
+Assassin Dagger~
+{xAssassin Dagger~
+A dagger is here.~
+unknown~
+weapon 0 AB
+0
+0
+dagger 7 5 stab 0
+0 0 5000 P
+#108
+Air Knife dagger~
+{xAir Knife~
+A dagger is here.~
+unknown~
+weapon 0 AB
+0
+0
+dagger 10 5 stab 0
+0 0 8000 P
+#109
+Zorlin Shape dagger~
+{xZorlin Shape~
+A dagger is here.~
+unknown~
+weapon 0 AB
+0
+0
+dagger 12 10 stab 0
+0 0 8000 P
+#110
+ninja sword Hidden Knife~
+hidden Knife~
+A ninja sword is here.~
+unknown~
+weapon 0 AB
+0
+0
+ninjasword 8 5 none 0
+0 0 3000 P
+#111
+ninja sword Ninja Knife~
+ninja Knife~
+A ninja sword is here.~
+unknown~
+weapon 0 AB
+0
+0
+ninjasword 9 5 none 0
+0 0 5000 P
+#112
+ninjasword Short Edge~
+short Edge~
+A ninja sword is here.~
+unknown~
+weapon 0 AB
+0
+0
+ninjasword 10 5 none 0
+0 0 7000 P
+#113
+ninjasword Spell Edge~
+spell Edge~
+A ninja sword is here.~
+unknown~
+weapon 0 0
+0
+0
+ninjasword 13 5 none 0
+0 0 16000 P
+#114
+ninja sword Ninja Edge~
+ninja Edge~
+A ninja sword is here.~
+unknown~
+weapon 0 AB
+0
+0
+ninjasword 12 5 none 0
+0 0 10000 P
+#115
+ninja sword Sasuke Knife~
+sasuke Knife~
+A ninja sword is here.~
+unknown~
+weapon 0 AB
+0
+0
+ninjasword 14 15 none 0
+0 0 10 P
+#116
+ninja sword Iga Knife~
+iga Knife~
+A ninja sword is here.~
+unknown~
+weapon 0 AB
+0
+0
+ninjasword 15 10 none 0
+0 0 10 P
+#117
+ninja sword Koga Knife~
+koga Knife~
+A ninja sword is here.~
+unknown~
+weapon 0 AB
+0
+0
+ninjasword 15 5 none 0
+0 0 10 P
+#118
+knight sword Defender~
+defender~
+A knight sword is here.~
+unknown~
+weapon 0 AB
+0
+0
+knightsword 16 60 none 0
+0 0 40000 P
+#119
+knight sword Save The Queen~
+{xSave The Queen~
+A knight sword is here.~
+unknown~
+weapon 0 AB
+0
+0
+knightsword 18 30 none 0
+0 0 10 P
+#120
+knight sword Excalibur~
+excalibur~
+A knight sword is here.~
+unknown~
+weapon 0 AB
+0
+0
+knightsword 21 35 none 0
+0 0 40000 P
+#121
+knight sword Chaos Blade~
+chaos Blade~
+A knight sword is here.~
+unknown~
+weapon 0 0
+0
+0
+knightsword 40 20 none 0
+0 0 10 P
+#122
+knight sword Ragnarok~
+ragnarok~
+A knight sword is here.~
+unknown~
+weapon 0 AB
+0
+0
+knightsword 21 35 none 0
+0 0 40000 P
+#123
+axe Battle Axe~
+battle Axe~
+An axe is here.~
+unknown~
+weapon 0 AB
+0
+0
+axe 9 0 none 0
+0 0 1500 P
+#124
+axe Giant Axe~
+giant Axe~
+An axe is here.~
+unknown~
+weapon 0 AB
+0
+0
+axe 12 0 none 0
+0 0 4000 P
+#125
+axe Slasher~
+slasher~
+An axe is here.~
+unknown~
+weapon 0 AB
+0
+0
+axe 16 0 none 0
+0 0 4000 P
+#209
+wand meteors~
+a wand of meteors~
+A wand of meteors~
+unknown~
+trash 0 0
+0
+0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#100
+Temple Room~
+~
+0 4 0
+D4
+~
+~
+0 0 101
+D5
+~
+~
+0 0 101
+Q 0 0 0 0 0 0 0 0 0 0 
+S
+#101
+Generic Shop~
+This is the initial equipment shop - low level items for all classes are available here. To the south, you can see The City.
+~
+0 4 0
+D2
+~
+~
+0 0 103
+Q 0 0 0 0 0 0 0 0 0 0 
+S
+#102
+Immortal Box~
+~
+0 4 0
+Q 0 0 0 0 0 0 0 0 0 0 
+S
+#103
+Generic Placeholder City~
+Paths lead north, east and west.
+~
+0 0 0
+D0
+~
+~
+0 0 101
+D1
+~
+~
+0 0 104
+D3
+~
+~
+0 0 110
+Q 0 0 0 0 0 0 0 0 0 0 
+S
+#104
+Generic Placeholder City~
+Paths lead south and west.
+~
+0 0 0
+D2
+~
+~
+0 0 105
+D3
+~
+~
+0 0 103
+Q 0 0 0 0 0 0 0 0 0 0 
+S
+#105
+Generic Placeholder City~
+Paths lead north and south.
+~
+0 0 0
+D0
+~
+~
+0 0 104
+D2
+~
+~
+0 0 106
+Q 0 0 0 0 0 0 0 0 0 0 
+S
+#106
+Generic Placeholder City~
+Paths lead north and west.
+~
+0 0 0
+D0
+~
+~
+0 0 105
+D3
+~
+~
+0 0 107
+Q 0 0 0 0 0 0 0 0 0 0 
+S
+#107
+Generic Placeholder City~
+Paths lead east and west.
+~
+0 0 0
+D0
+~
+~
+0 0 111
+D1
+~
+~
+0 0 106
+D2
+~
+~
+0 0 112
+D3
+~
+~
+0 0 108
+Q 0 0 0 0 0 0 0 0 0 0 
+S
+#108
+Generic Placeholder City~
+Paths lead north and east.
+~
+0 0 0
+D0
+~
+~
+0 0 109
+D1
+~
+~
+0 0 107
+Q 0 0 0 0 0 0 0 0 0 0 
+S
+#109
+Generic Placeholder City~
+Paths lead north and south.
+~
+0 0 0
+D0
+~
+~
+0 0 110
+D2
+~
+~
+0 0 108
+Q 0 0 0 0 0 0 0 0 0 0 
+S
+#110
+Generic Placeholder City~
+Paths lead south and east.
+~
+0 0 0
+D1
+~
+~
+0 0 103
+D2
+~
+~
+0 0 109
+Q 0 0 0 0 0 0 0 0 0 0 
+S
+#111
+Spider Battle Room~
+Random battles here. Walk back and forth. Spiders.
+~
+0 0 0
+D0
+~
+~
+0 0 112
+D2
+~
+~
+0 0 107
+Q 30 30 30 30 30 30 30 0 0 0 
+S
+#112
+Spider Battle Room~
+Random battles here. Walk back and forth. Spiders.
+~
+0 0 0
+D0
+~
+~
+0 0 107
+D2
+~
+~
+0 0 111
+Q 30 30 30 30 30 30 30 0 0 0 
+S
+#0
+
+
+
+#RESETS
+M 0 101 1 101 1 Load The Shopkeeper
+G 0 101 0 {xmythril knife is given to The Shopkeeper
+G 0 100 0 {xdagger is given to The Shopkeeper
+G 0 110 0 Hidden knife is given to The Shopkeeper
+G 0 111 0 Ninja knife is given to The Shopkeeper
+G 0 118 0 Defender is given to The Shopkeeper
+G 0 123 0 Battle axe is given to The Shopkeeper
+S
+
+
+
+#SHOPS
+101 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,60 @@
+#PLAYER
+Name Chaos~
+Id   1032833092
+LogO 1032834080
+Vers 6
+Fdisp {x{!C{W{x~
+Prom <%hhp %mm %vmv> ~
+Race human~
+Sex  1
+SkJob1  0
+SkJob2  0
+SkReact  0
+SkMove  0
+SkMisc  0
+Levl 2
+Sec  0
+Plyd 988
+Scro 22
+Room 101
+HMV  32 32 15 15 100 100
+Gold 0
+Silv 0
+Exp  200
+eHPP  532951
+eMPP  256996
+eSpP  100711
+ePAP  84768
+eMAP  67244
+eFaith  65
+eBrave  68
+Act  QT
+Comm NO
+Pos  8
+Prac 5
+Trai 3
+Alig  0
+ACs 100 100 100 100
+Attr 5 65 4 13 68
+AMod 0 0 0 0 0
+Pass rosebud~
+Titl  ~
+Pnts 0
+TSex 1
+LLev 0
+HMVP 31 14 100
+Cnd  0 48 48 48
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+CJobL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+CJobT 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+CJobJ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Boards       5 General 0 Ideas 0 Announce 0 Bugs 0 Personal 0 
+End
+
+#END

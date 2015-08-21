@@ -1,0 +1,58 @@
+#PLAYER
+Name Testr~
+Id   1032499453
+LogO 1032501302
+Vers 6
+Fdisp (null)~
+Prom <%hhp %mm %vmv> ~
+Race human~
+Sex  1
+SkJob1  0
+SkJob2  0
+SkReact  0
+SkMove  0
+SkMisc  0
+Levl 60
+Sec  0
+Plyd 1849
+Scro 22
+Room 101
+HMV  0 0 0 0 100 100
+Gold 0
+Silv 0
+Exp  6000
+eHPP  0
+eMPP  0
+eSpP  0
+ePAP  81920
+eMAP  65536
+Act  QT
+Comm NO
+Pos  8
+Prac 5
+Trai 3
+Alig  0
+ACs 100 100 100 100
+Attr 0 74 0 13 42
+AMod 0 0 0 0 0
+Pass testr~
+Titl  ~
+Pnts 0
+TSex 1
+LLev 0
+HMVP 31 0 100
+Cnd  0 48 48 48
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+CJobL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+CJobT 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+CJobJ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Boards       5 General 0 Ideas 0 Announce 0 Bugs 0 Personal 0 
+End
+
+#END

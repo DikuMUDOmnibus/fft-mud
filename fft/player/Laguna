@@ -1,0 +1,84 @@
+#PLAYER
+Name Laguna~
+Id   1032749244
+LogO 1042574721
+Vers 6
+Fdisp {x{!L{W{x~
+Prom <%hhp %mm %vmv> ~
+Race human~
+Sex  1
+SkJob1  6
+SkJob2  15
+SkReact  15
+SkMove  18
+SkMisc  0
+Levl 108
+Sec  0
+Plyd 11683
+Scro 22
+Room 100
+HMV  617 617 110 110 100 100
+Gold 14
+Silv 0
+Exp  10800
+eHPP  10116713
+eMPP  1807756
+eSpP  585069
+ePAP  1866726
+eMAP  241245
+eFaith  53
+eBrave  64
+Act  QT
+Comm NO
+Pos  8
+Prac 5
+Trai 3
+Alig  0
+ACs 100 100 100 100
+Attr 113 53 14 13 64
+AMod 0 0 0 0 0
+Pass farkity~
+Titl  ~
+Pnts 0
+TSex 1
+LLev 1
+HMVP 30 14 100
+Cnd  0 48 48 48
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+CJobL 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+CJobT 342 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+CJobJ 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 
+Boards       5 General 0 Ideas 0 Announce 0 Bugs 0 Personal 0 
+Sk 100 ' --- '
+Sk 100 'armor'
+Sk 100 'bless'
+Sk 100 'Throw Stone'
+Sk 100 'Counter'
+Sk 100 'Hamedo'
+Sk 100 'Counter Tackle'
+Sk 100 'Move+1'
+Sk 100 'Move+2'
+Sk 100 'Move+3'
+Sk 100 'backstab'
+Sk 100 'bash'
+Sk 100 'dodge'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'parry'
+End
+
+#O
+Vnum 101
+Nest 0
+Cond 0
+Wear 0
+Cost 258
+End
+
+#END

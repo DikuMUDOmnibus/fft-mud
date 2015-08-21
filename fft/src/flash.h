@@ -1,0 +1,10 @@
+#define FLASHING	"\x1B[5m"
+#define INVERSE		"\x1B[7m"
+#define BKBLK   "\x1B[40m"		// BG Colors.
+#define BKRED   "\x1B[41m"
+#define BKGRN   "\x1B[42m"
+#define BKYEL   "\x1B[43m"
+#define BKBLU   "\x1B[44m"
+#define BKMAG   "\x1B[45m"
+#define BKCYN   "\x1B[46m"
+#define BKWHT   "\x1B[47m"

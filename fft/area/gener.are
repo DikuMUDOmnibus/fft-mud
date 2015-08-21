@@ -1,0 +1,62 @@
+#AREADATA
+Name Generics~
+Builders None~
+VNUMs 31 99
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#31
+goblin~
+Goblin~
+GOB GOB GOB
+~
+~
+goblin~
+A 0 0 -1  0 0
+3 1 10d6+5 0d0+0 3d4+2 stab
+0 0 0 0
+0 0 Q C
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+1 #0
+
+
+
+#OBJECTS
+#64
+boot~
+{xBoots Of Extreme Unfairness~
+Boot~
+unknown~
+trash ABE AE
+1
+9
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#0
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,9 @@
+QuickMUD/gods/*
+QuickMUD/log/*
+QuickMUD/notes/*
+obj/*
+QuickMUD/player/*
+QuickMUD/*core
+*.html
+*.swp
+CVS

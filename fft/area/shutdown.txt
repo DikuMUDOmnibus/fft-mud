@@ -1,0 +1,22 @@
+[ 3744] Sirius: Shutdown by Sirius.
+[ 3700] Sirius: Shutdown by Sirius.
+[ 3001] Sirius: Shutdown by Sirius.
+[ 3001] Sirius: Shutdown by Sirius.
+[ 3001] Sirius: Shutdown by Sirius.
+[ 3005] Sirius: Shutdown by Sirius.
+[ 3005] Sirius: Shutdown by Sirius.
+[    2] Sirius: Shutdown by Sirius.
+[    2] Sirius: Shutdown by Sirius.
+[    2] Sirius: Shutdown by Sirius.
+[    2] Sirius: Shutdown by Sirius.
+[    2] Sirius: Shutdown by Sirius.
+[    2] Sirius: Shutdown by Sirius.
+[    2] Sirius: Shutdown by Sirius.
+[    2] Sirius: Shutdown by Sirius.
+[    2] Sirius: Shutdown by Sirius.
+[    2] Sirius: Shutdown by Sirius.
+[   11] Sirius: Shutdown by Sirius.
+[  101] Sirius: Shutdown by Sirius.
+[    3] Sirius: cond{6'{x
+
+[  103] Sirius: 

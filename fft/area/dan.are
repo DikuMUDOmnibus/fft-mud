@@ -1,0 +1,66 @@
+#AREADATA
+Name Dan~
+Builders None~
+VNUMs 601 999
+Credits (null)~
+Security 1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#601
+marm~
+marm~
+You see some marm on the ground here.~
+unknown~
+food 0 0
+0
+0
+CFG CFG 0 0 0
+0 0 0 P
+#602
+stabbing dagger~
+dagger of stabbing~
+The dagger of stabbing is here.~
+unknown~
+weapon 0 AB
+0
+0
+dagger 0 0 stab 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#601
+Space~
+This is a non-descript platform floating in deep space.
+~
+0 4 0
+Q 0 0 0 0 0 0 0 0 0 0 
+S
+#0
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

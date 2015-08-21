@@ -1,0 +1,234 @@
+#PLAYER
+Name Takemura~
+Id   1032818857
+LogO 1042600514
+Vers 6
+Fdisp {x{!T{W{x~
+Desc 601-999 My back packs got jets, I'm boba the fett.. Well I bounty hunt for jabba hutt to finance my vette, Well I chill in deep space, A mask is over my face... well I deliver the prize but I still narrow my eyes 'cause my time I dont like to waste 
+~
+Prom <%hhp %mm %vmv> ~
+Race human~
+Sex  1
+SkJob1  0
+SkJob2  6
+SkReact  46
+SkMove  18
+SkMisc  0
+Levl 108
+Tru  108
+Sec  9
+Plyd 679026
+Scro 22
+Room 103
+HMV  9000 9000 999 999 100 100
+Gold 4
+Silv 45
+Exp  10800
+eHPP  9911322
+eMPP  1748256
+eSpP  570900
+ePAP  1860181
+eMAP  230458
+eFaith  41
+eBrave  64
+Act  DNQT
+Comm NOa
+Wizn ACFHLQT
+Pos  8
+Prac 5
+Trai 3
+Alig  0
+ACs -50 -170 -197 -110
+Attr 0 41 0 13 64
+AMod 0 0 0 0 0
+Pass spooch~
+Titl  the battle snail~
+Pnts 0
+TSex 1
+LLev 1
+HMVP 9000 999 100
+Cnd  0 48 48 48
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+CJobL 5 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+CJobT 412 0 0 0 0 0 141 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+CJobJ 1304 1000 1000 1000 1000 1000 1141 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 
+Boards       5 General 0 Ideas 0 Announce 0 Bugs 0 Personal 0 
+Sk 100 ' --- '
+Sk 100 'armor'
+Sk 100 'bless'
+Sk 100 'Throw Stone'
+Sk 100 'NullSpell'
+Sk 100 'Bahamut'
+Sk 100 'Bio'
+Sk 100 'Bio3'
+Sk 100 'Bolt'
+Sk 100 'Bolt2'
+Sk 100 'Bolt3'
+Sk 100 'Bolt4'
+Sk 100 'Cure'
+Sk 100 'Cure2'
+Sk 100 'Cure3'
+Sk 100 'Cure4'
+Sk 100 'Cyclops'
+Sk 100 'DarkHoly'
+Sk 100 'Fairy'
+Sk 100 'Fire'
+Sk 100 'Fire2'
+Sk 100 'Fire3'
+Sk 100 'Fire4'
+Sk 100 'Flare'
+Sk 100 'Flare2'
+Sk 100 'Holy'
+Sk 100 'Ice'
+Sk 100 'Ice2'
+Sk 100 'Ice3'
+Sk 100 'Ice4'
+Sk 100 'Ifrit'
+Sk 100 'Leviathan'
+Sk 100 'Melt'
+Sk 100 'Meteor'
+Sk 100 'Odin'
+Sk 100 'Quake'
+Sk 100 'Ramuh'
+Sk 100 'Salamander'
+Sk 100 'Shiva'
+Sk 100 'Titan'
+Sk 100 'Tornado'
+Sk 100 'Ultima'
+Sk 100 'Ultima2'
+Sk 100 'Zodiac'
+Sk 100 'All-Ultima'
+Sk 100 'NullSpell2'
+Sk 100 'Counter'
+Sk 100 'Hamedo'
+Sk 100 'Counter Tackle'
+Sk 100 'Move+1'
+Sk 100 'Move+2'
+Sk 100 'Move+3'
+Sk 100 'backstab'
+Sk 100 'bash'
+Sk 100 'dodge'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'parry'
+End
+
+#O
+Vnum 120
+Nest 0
+Cond 0
+Wear -1
+Cost 40000
+End
+
+#O
+Vnum 1
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 23
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 21
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 15
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 109
+Nest 0
+Cond 0
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 109
+Nest 0
+Cond 0
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 109
+Nest 0
+Cond 0
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 120
+Nest 0
+Cond 0
+Wear -1
+Cost 40000
+End
+
+#O
+Vnum 29
+Nest 0
+Cond 0
+Wear 2
+Cost 0
+End
+
+#END

@@ -1,0 +1,76 @@
+#PLAYER
+Name Kremmy~
+Id   1032749300
+LogO 1044048867
+Vers 6
+Fdisp {x{!K{W{x~
+Prom <%hhp %mm %vmv> ~
+Race human~
+Sex  1
+SkJob1  8
+SkJob2  0
+SkReact  0
+SkMove  0
+SkMisc  0
+Levl 108
+Sec  0
+Plyd 8918
+Scro 22
+Room 101
+HMV  739 739 420 420 100 100
+Gold 9
+Silv 0
+Exp  10800
+eHPP  12121098
+eMPP  6890598
+eSpP  584926
+ePAP  947158
+eMAP  413037
+eFaith  48
+eBrave  80
+Act  NQT
+Comm NOa
+Pos  8
+Prac 5
+Trai 3
+Alig  0
+ACs 100 100 100 100
+Attr 0 48 0 13 80
+AMod 0 0 0 0 0
+Pass swiss~
+Titl  {x~
+Pnts 0
+TSex 1
+LLev 1
+HMVP 739 420 100
+Cnd  0 48 48 48
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+CJobL 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+CJobT 38 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+CJobJ 38 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Boards       5 General 0 Ideas 0 Announce 0 Bugs 0 Personal 0 
+End
+
+#O
+Vnum 100
+Nest 0
+Cond 0
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 101
+Nest 0
+Cond 0
+Wear 2
+Cost 500
+End
+
+#END

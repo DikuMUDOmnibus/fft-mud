@@ -1,0 +1,130 @@
+#PLAYER
+Name Sirius~
+Id   1030928440
+LogO 1031976837
+Vers 6
+Fdisp {!{CS~
+Prom <%3AT %2x %1y> ~
+Race human~
+Sex  1
+SkJob1  0
+SkJob2  0
+SkReact  21
+SkMove  25
+SkMisc  0
+Levl 108
+Sec  9
+Plyd 397926
+Scro 22
+Room 2
+HMV  20 20 100 100 100 100
+Gold 0
+Silv 0
+Exp  999
+Act  QT
+Comm ANOa
+Pos  8
+Prac 5
+Trai 3
+Save  -1
+Alig  0
+ACs 98 98 98 99
+Attr 13 16 13 13 13
+AMod 0 0 0 0 0
+Pass xgsp4hag~
+Titl  Px~
+Pnts 40
+TSex 1
+LLev 1
+HMVP 20 100 100
+Cnd  0 34 41 41
+Coloura     007 013 005 001 013
+Colourb     013 003 002 006 003
+Colourc     113 002 002 002 001
+Colourd     006 007 002 006 006
+Coloure     011 002 003 001 017
+Colourf     002 002 012 012 012
+Colourg     017 015 011 017 017
+CJobL 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+CJobT 183 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+CJobJ 183 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Boards       5 General 0 Ideas 0 Announce 0 Bugs 0 Personal 0 
+Sk 100 'reserved'
+Sk 100 'armor'
+Sk 100 'bless'
+Sk 100 'blindness'
+Sk 100 'flamestrike'
+Sk 100 'harm'
+Sk 100 'haste'
+Sk 100 'heal'
+Sk 100 'holy word'
+Sk 100 'magic missile'
+Sk 100 'shield'
+Sk 100 'sleep'
+Sk 100 'slow'
+Sk 100 'teleport'
+Sk 100 'axe'
+Sk 100 'dagger'
+Sk 100 'flail'
+Sk 100 'mace'
+Sk 100 'Throw Stone'
+Sk 100 'polearm'
+Sk 100 'Counter'
+Sk 100 'Hamedo'
+Sk 100 'Counter Tackle'
+Sk 100 'Move+1'
+Sk 100 'Move+2'
+Sk 100 'Move+3'
+Sk 100 'spear'
+Sk 100 'sword'
+Sk 100 'whip'
+Sk 100 'backstab'
+Sk 100 'bash'
+Sk 100 'dodge'
+Sk 100 'hand to hand'
+Sk 100 'kick'
+Sk 100 'parry'
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 199 0 0
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 3701
+Nest 0
+Cond 0
+Wear 16
+Cost 210
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 0
+Wear -1
+Cost 500
+End
+
+#END

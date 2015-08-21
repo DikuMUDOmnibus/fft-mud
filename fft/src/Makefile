@@ -14,7 +14,7 @@ PROF = -O -ggdb
 
 # Uncomment these two lines to use plaintext passwords.
 # This is how you fix the 'crypt' linking errors!
-C_FLAGS = -Wall -Werror $(PROF) -Dunix -DNOCRYPT
+C_FLAGS = -Wall  $(PROF) -Dunix -DNOCRYPT
 L_FLAGS = $(PROF) -DNOCRYPT
 
 # Source Files

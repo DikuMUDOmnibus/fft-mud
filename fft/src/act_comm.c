@@ -645,8 +645,7 @@ void do_gossip( CHAR_DATA *ch, char *argument )
  
         if (IS_SET(ch->comm,COMM_NOCHANNELS))
         {
-          send_to_char("The gods have revoked your channel
-priviliges.\n\r",ch);
+          send_to_char("The gods have revoked your channel priviliges.\n\r",ch);
           return;
        	}
 

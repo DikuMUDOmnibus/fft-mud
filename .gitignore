@@ -1,0 +1,5 @@
+fft/src/obj/*
+*.o
+*.obj
+fft/player/*
+.gdb_history
